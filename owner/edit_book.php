@@ -100,7 +100,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <link rel="stylesheet" href="../css/style.css" />
 </head>
 <body>
-<?php include('../navbar.php'); ?>
+<?php include('navbar.php'); ?>
 
 <div class="container mt-5 mb-5">
         <div class="card mx-auto" style="max-width: 500px;">
